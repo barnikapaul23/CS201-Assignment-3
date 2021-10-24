@@ -1,10 +1,12 @@
 # CS201-Assignment-3
+
 Submitted by:-
 Barnika Paul
 2012006
 CSE Sec-A
 Course Code:CS201
 National Institute of Technology,Silchar
+
 Questions:
 1. How to generate unique string hash value? For instance, input: ”CSE Rocks”, Output: Some
 integer value
